@@ -73,7 +73,7 @@
     "@coreui/coreui-plugin-chartjs-custom-tooltips": "1.2.0",
     "@coreui/icons": "0.3.0",
     "bootstrap": "^4.3.1",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.3",
     "core-js": "^2.6.9",
     "flag-icon-css": "^3.3.0",
     "font-awesome": "4.7.0",
