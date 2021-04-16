@@ -96,7 +96,7 @@
     "babel-eslint": "^10.1.0",
     "babel-plugin-transform-es2015-modules-strip": "^0.1.1",
     "browser-sync": "^2.26.7",
-    "chalk": "^2.4.2",
+    "chalk": "^4.1.0",
     "clean-css-cli": "^4.3.0",
     "copyfiles": "^2.2.0",
     "cross-env": "^5.2.1",
