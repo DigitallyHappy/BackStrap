@@ -92,7 +92,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
     "@babel/plugin-proposal-throw-expressions": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^10.2.6",
     "babel-eslint": "^10.1.0",
     "babel-plugin-transform-es2015-modules-strip": "^0.1.1",
     "browser-sync": "^2.26.7",
